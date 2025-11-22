@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marianacarhol
 - 👀 I’m a Computer Science Student
-- 😎 My interests cover cybersecurity, software development, and AI. 
+- 😎 My interests cover cybersecurity, networks, software development, and AI. 
 - 😄 Pronouns: she/her
 
 <!---
