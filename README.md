@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marianacarhol
+- 👋 Hi, I’m Mariana Carrillo Holguin
 - 👀 I’m a Computer Science Student
 - 😎 My interests cover cybersecurity, networks, software development, and AI. 
 - 😄 Pronouns: she/her
